@@ -50,7 +50,7 @@
 - [ ] logging [@FesonX](https://github.com/FesonX) FesonX
 - [ ] quickstart (reserved)
 - [ ] reqcontext [@rosekc](https://github.com/rosekc) rosekc
-- [ ] security [@kylinbin](https://github.com/kylinbin) kylin
+- [ ] security [@kylinbisdfn](https://github.com/kylinbin) kylin
 - [ ] server [@LeeRnnGii](https://github.com/LeeRnnGii) LeeRnnGii
 - [x] shell [@LTakamori](https://github.com/LTakamori) LTakamori
 - [ ] signals
@@ -107,7 +107,7 @@
 - [ ] requestchecksum
 - [ ] singlepageapplications
 - [ ] sqlalchemy [@wnykuang](https://github.com/wnykuang) wkuang
-- [ ] sqlite3
+- [ ] sqlite3 sdf
 - [ ] streaming
 - [ ] subclassing
 - [ ] templateinheritance
