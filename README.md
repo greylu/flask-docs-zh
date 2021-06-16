@@ -23,6 +23,7 @@
 - Frost Ming ([@frostming](https://github.com/frostming))
 - FesonX ([@FesonX](https://github.com/FesonX))
 
+xx
 
 ## Translators (Translation To-do List)
 
