@@ -107,7 +107,7 @@
 - [ ] requestchecksum
 - [ ] singlepageapplications
 - [ ] sqlalchemy [@wnykuang](https://github.com/wnykuang) wkuang
-- [ ] sqlite3
+- [ ] sqlite3 sdf
 - [ ] streaming
 - [ ] subclassing
 - [ ] templateinheritance
